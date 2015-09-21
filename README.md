@@ -25,4 +25,4 @@ Overview of layout: https://drive.google.com/file/d/0B-hDIfNrvdcELTV1dUdCY1djWTg
 
 ### Walkthrough
 
-![Video Walkthrough](https://cloud.githubusercontent.com/assets/8816061/9722441/7cb0742c-55d7-11e5-96ef-fd61e16cc775.gif)
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/8816061/9992409/2372147c-609c-11e5-9c3e-8847b93bff12.gif)
